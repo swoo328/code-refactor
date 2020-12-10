@@ -7,7 +7,7 @@ https://swoo328.github.io/code-refactor/
 https://github.com/swoo328/code-refactor
 
 # Screenshot
-
+![](Assets/images/swoo328.github.io_code-refactor_.png)
 
 # Summary
 I change all the nonsemantic html tags and change them to 

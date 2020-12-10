@@ -14,7 +14,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* diplay the items horizontally */
 header h1 {
     display: inline-block;
     font-size: 48px;
